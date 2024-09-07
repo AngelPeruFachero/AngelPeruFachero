@@ -1,5 +1,5 @@
 # ¿En qué puesto me encuentro de todos los usuarios de GitHub en Perú?
-[![committers.top badge](https://user-badge.committers.top/peru/KatashiFukushima.svg)](https://user-badge.committers.top/peru/KatashiFukushima)
+[![committers.top badge](https://user-badge.committers.top/peru/AngelPeruFachero.svg)](https://user-badge.committers.top/peru/AngelPeruFachero)
 
 # 💫 Sobre Mí:
 Hola 👋🏻 Soy AngelPeruFachero 🥷<br>Estoy aprendiendo programación con ayuda de amigos desarrolladores de bots. 🤝<br>Eres bienvenido(a) a mi repositorio❤️
