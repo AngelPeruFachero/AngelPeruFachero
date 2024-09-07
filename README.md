@@ -3,7 +3,7 @@
 
 # 💫 Sobre Mí:
 Hola 👋🏻 Soy AngelPeruFachero 🥷<br>Estoy aprendiendo programación con ayuda de amigos desarrolladores de bots. 🤝<br>Eres bienvenido(a) a mi repositorio❤️
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katashifukushima&label=Vistas%20al%20perfil&color=03fc2c&style=flat" alt="AngelPeruFachero" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AngelPeruFachero &label=Vistas%20al%20perfil&color=03fc2c&style=flat" alt="AngelPeruFachero" /> </p>
 
 ## 🌐 Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zub42Umu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/katashifukushimaf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katashi_fukushima) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@katashi_fukushima) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@katashifukushima) 
